@@ -1,0 +1,2308 @@
+==================================================
+Starting Grid Training
+Grid Training Params:
+activation                       :  ['relu']
+drop_out                         :  [False]
+final_act                        :  ['sigmoid']
+hidden_layers                    :  [100]
+learning_rate                    :  [0.001]
+loss_ratio                       :  [1]
+num_of_hidden_layers             :  [3]
+Global Params:
+debug                            :  False
+early_stopping                   :  False
+num_epochs                       :  1000
+==================================================
+Local Training Params:
+activation                       :  relu
+drop_out                         :  False
+final_act                        :  sigmoid
+hidden_layers                    :  100
+learning_rate                    :  0.001
+loss_ratio                       :  1
+num_of_hidden_layers             :  3
+==================================================
+Epoch: 0 Loss: 22.5765 Dev_Loss: 21.5026
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 1 Loss: 10.2878 Dev_Loss: 9.8834
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 2 Loss: 9.6255 Dev_Loss: 9.6489
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 3 Loss: 9.4702 Dev_Loss: 9.7613
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 4 Loss: 9.3413 Dev_Loss: 9.2637
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 5 Loss: 9.2056 Dev_Loss: 9.1680
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 6 Loss: 9.1063 Dev_Loss: 9.0833
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 7 Loss: 9.0123 Dev_Loss: 8.9916
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 8 Loss: 8.9019 Dev_Loss: 8.8737
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 9 Loss: 8.7453 Dev_Loss: 8.7913
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 10 Loss: 8.5541 Dev_Loss: 8.5289
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 11 Loss: 8.3701 Dev_Loss: 8.2724
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 12 Loss: 8.2533 Dev_Loss: 8.1649
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 13 Loss: 8.1166 Dev_Loss: 8.1654
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 14 Loss: 8.0067 Dev_Loss: 8.0528
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 15 Loss: 7.8312 Dev_Loss: 7.7925
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 16 Loss: 7.6646 Dev_Loss: 7.6614
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 17 Loss: 7.4973 Dev_Loss: 7.3928
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 18 Loss: 7.3661 Dev_Loss: 7.4576
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 19 Loss: 7.3106 Dev_Loss: 7.1869
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 20 Loss: 7.1424 Dev_Loss: 7.2037
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 21 Loss: 7.1039 Dev_Loss: 7.3807
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 22 Loss: 7.0472 Dev_Loss: 7.0916
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 23 Loss: 6.9772 Dev_Loss: 7.0030
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 24 Loss: 6.9320 Dev_Loss: 6.9038
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 25 Loss: 6.8745 Dev_Loss: 6.8553
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 26 Loss: 6.8043 Dev_Loss: 6.9463
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 27 Loss: 6.7624 Dev_Loss: 6.8483
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 28 Loss: 6.7519 Dev_Loss: 6.7449
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 29 Loss: 6.6887 Dev_Loss: 6.7144
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 30 Loss: 6.5995 Dev_Loss: 6.7102
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 31 Loss: 6.5885 Dev_Loss: 6.7334
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 32 Loss: 6.5395 Dev_Loss: 6.7005
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 33 Loss: 6.5293 Dev_Loss: 6.4619
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 34 Loss: 6.4442 Dev_Loss: 6.4243
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 35 Loss: 6.4228 Dev_Loss: 6.5842
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 36 Loss: 6.3939 Dev_Loss: 6.4702
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 37 Loss: 6.3148 Dev_Loss: 6.3053
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 38 Loss: 6.3047 Dev_Loss: 6.3380
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 39 Loss: 6.2439 Dev_Loss: 6.2044
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 40 Loss: 6.2168 Dev_Loss: 6.3673
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 41 Loss: 6.2269 Dev_Loss: 6.2865
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 42 Loss: 6.1126 Dev_Loss: 6.2042
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 43 Loss: 6.1450 Dev_Loss: 6.2208
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 44 Loss: 6.0978 Dev_Loss: 6.2411
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 45 Loss: 6.0940 Dev_Loss: 6.1296
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 46 Loss: 6.0566 Dev_Loss: 5.9828
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 47 Loss: 6.0368 Dev_Loss: 6.0003
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 48 Loss: 5.9924 Dev_Loss: 6.1773
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 49 Loss: 5.9661 Dev_Loss: 6.0259
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 50 Loss: 5.9352 Dev_Loss: 6.1163
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 51 Loss: 5.9305 Dev_Loss: 5.8706
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 52 Loss: 5.9142 Dev_Loss: 5.8516
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 53 Loss: 5.8685 Dev_Loss: 5.8794
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 54 Loss: 5.8566 Dev_Loss: 6.0186
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 55 Loss: 5.8117 Dev_Loss: 5.9343
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 56 Loss: 5.7943 Dev_Loss: 5.7725
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 57 Loss: 5.7782 Dev_Loss: 5.7523
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 58 Loss: 5.7708 Dev_Loss: 6.0177
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 59 Loss: 5.7592 Dev_Loss: 5.7379
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 60 Loss: 5.7054 Dev_Loss: 5.8793
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 61 Loss: 5.6507 Dev_Loss: 5.7493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 62 Loss: 5.6636 Dev_Loss: 5.6996
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 63 Loss: 5.6255 Dev_Loss: 5.5971
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 64 Loss: 5.5930 Dev_Loss: 5.6180
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 65 Loss: 5.5663 Dev_Loss: 5.5280
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 66 Loss: 5.5573 Dev_Loss: 5.5489
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 67 Loss: 5.5278 Dev_Loss: 6.2962
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 68 Loss: 5.6240 Dev_Loss: 5.4650
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 69 Loss: 5.4901 Dev_Loss: 5.7478
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 70 Loss: 5.4586 Dev_Loss: 5.7374
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 71 Loss: 5.4517 Dev_Loss: 5.6066
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 72 Loss: 5.4418 Dev_Loss: 5.4921
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 73 Loss: 5.4112 Dev_Loss: 5.5718
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 74 Loss: 5.3679 Dev_Loss: 5.3841
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 75 Loss: 5.3982 Dev_Loss: 5.5859
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 76 Loss: 5.3560 Dev_Loss: 5.6451
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 77 Loss: 5.3115 Dev_Loss: 5.4747
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 78 Loss: 5.2875 Dev_Loss: 5.5028
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 79 Loss: 5.3044 Dev_Loss: 5.3884
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 80 Loss: 5.2596 Dev_Loss: 5.4834
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 81 Loss: 5.2710 Dev_Loss: 5.1536
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 82 Loss: 5.1964 Dev_Loss: 5.2582
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 83 Loss: 5.1761 Dev_Loss: 5.2371
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 84 Loss: 5.1703 Dev_Loss: 5.0566
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 85 Loss: 5.1534 Dev_Loss: 5.2827
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 86 Loss: 5.1145 Dev_Loss: 5.2392
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 87 Loss: 5.1344 Dev_Loss: 5.0749
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 88 Loss: 5.0587 Dev_Loss: 5.0960
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 89 Loss: 5.0671 Dev_Loss: 5.2625
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 90 Loss: 5.0657 Dev_Loss: 5.0708
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 91 Loss: 5.0329 Dev_Loss: 5.0017
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 92 Loss: 5.0251 Dev_Loss: 5.2023
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 93 Loss: 4.9660 Dev_Loss: 4.8783
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 94 Loss: 4.9756 Dev_Loss: 4.9431
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 95 Loss: 4.9315 Dev_Loss: 4.9122
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 96 Loss: 4.9112 Dev_Loss: 5.1124
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 97 Loss: 4.9168 Dev_Loss: 4.9525
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 98 Loss: 4.8820 Dev_Loss: 4.8216
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 99 Loss: 4.8701 Dev_Loss: 4.8943
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 100 Loss: 4.8475 Dev_Loss: 4.9827
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 101 Loss: 4.8202 Dev_Loss: 4.8393
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 102 Loss: 4.7889 Dev_Loss: 4.8266
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 103 Loss: 4.7983 Dev_Loss: 4.8690
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 104 Loss: 4.7722 Dev_Loss: 4.7725
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 105 Loss: 4.7853 Dev_Loss: 4.8886
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 106 Loss: 4.7863 Dev_Loss: 5.0688
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 107 Loss: 4.7389 Dev_Loss: 4.8106
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 108 Loss: 4.7141 Dev_Loss: 4.8060
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 109 Loss: 4.6837 Dev_Loss: 4.7268
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 110 Loss: 4.7216 Dev_Loss: 4.7254
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 111 Loss: 4.6814 Dev_Loss: 4.7359
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 112 Loss: 4.6844 Dev_Loss: 4.6837
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 113 Loss: 4.6508 Dev_Loss: 4.6647
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 114 Loss: 4.6165 Dev_Loss: 5.0119
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 115 Loss: 4.6201 Dev_Loss: 4.6995
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 116 Loss: 4.6452 Dev_Loss: 4.7004
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 117 Loss: 4.5973 Dev_Loss: 4.8654
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 118 Loss: 4.5827 Dev_Loss: 4.8642
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 119 Loss: 4.6094 Dev_Loss: 4.8013
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 120 Loss: 4.5442 Dev_Loss: 4.6505
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 121 Loss: 4.5396 Dev_Loss: 4.7095
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 122 Loss: 4.5653 Dev_Loss: 4.7999
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 123 Loss: 4.5064 Dev_Loss: 4.8227
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 124 Loss: 4.4995 Dev_Loss: 4.6739
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 125 Loss: 4.5010 Dev_Loss: 4.5787
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 126 Loss: 4.5273 Dev_Loss: 4.6092
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 127 Loss: 4.4944 Dev_Loss: 4.8139
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 128 Loss: 4.4644 Dev_Loss: 4.5830
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 129 Loss: 4.4492 Dev_Loss: 4.4836
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 130 Loss: 4.4601 Dev_Loss: 4.5754
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 131 Loss: 4.4561 Dev_Loss: 4.6500
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 132 Loss: 4.4089 Dev_Loss: 4.5547
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 133 Loss: 4.4925 Dev_Loss: 4.4322
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 134 Loss: 4.4061 Dev_Loss: 4.5377
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 135 Loss: 4.3789 Dev_Loss: 4.4277
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 136 Loss: 4.4094 Dev_Loss: 4.3609
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 137 Loss: 4.3819 Dev_Loss: 4.5556
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 138 Loss: 4.3671 Dev_Loss: 4.3971
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 139 Loss: 4.3559 Dev_Loss: 4.5484
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 140 Loss: 4.3275 Dev_Loss: 4.5787
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 141 Loss: 4.3475 Dev_Loss: 4.4520
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 142 Loss: 4.3410 Dev_Loss: 4.2970
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 143 Loss: 4.3239 Dev_Loss: 4.3861
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 144 Loss: 4.2666 Dev_Loss: 4.3042
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 145 Loss: 4.3310 Dev_Loss: 4.3145
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 146 Loss: 4.2788 Dev_Loss: 4.4114
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 147 Loss: 4.2855 Dev_Loss: 4.3867
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 148 Loss: 4.2941 Dev_Loss: 4.4056
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 149 Loss: 4.2664 Dev_Loss: 4.2348
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 150 Loss: 4.2385 Dev_Loss: 4.4621
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 151 Loss: 4.2540 Dev_Loss: 4.3633
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 152 Loss: 4.2402 Dev_Loss: 4.2538
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 153 Loss: 4.2213 Dev_Loss: 4.3440
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 154 Loss: 4.1984 Dev_Loss: 4.3683
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 155 Loss: 4.2115 Dev_Loss: 4.2348
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 156 Loss: 4.1774 Dev_Loss: 4.2680
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 157 Loss: 4.1596 Dev_Loss: 4.4168
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 158 Loss: 4.1672 Dev_Loss: 4.3837
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 159 Loss: 4.1773 Dev_Loss: 4.1898
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 160 Loss: 4.1744 Dev_Loss: 4.5174
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 161 Loss: 4.1490 Dev_Loss: 4.3798
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 162 Loss: 4.1392 Dev_Loss: 4.4553
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 163 Loss: 4.1283 Dev_Loss: 4.2391
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 164 Loss: 4.1320 Dev_Loss: 4.1565
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 165 Loss: 4.1135 Dev_Loss: 4.1439
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 166 Loss: 4.1208 Dev_Loss: 4.2130
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 167 Loss: 4.0834 Dev_Loss: 4.3197
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 168 Loss: 4.1362 Dev_Loss: 4.1751
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 169 Loss: 4.0972 Dev_Loss: 4.1950
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 170 Loss: 4.0994 Dev_Loss: 4.5368
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 171 Loss: 4.0840 Dev_Loss: 4.0950
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 172 Loss: 4.0938 Dev_Loss: 4.1343
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00173: ReduceLROnPlateau reducing learning rate to 0.00010000000474974513.
+Epoch: 173 Loss: 3.7004 Dev_Loss: 3.8101
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 174 Loss: 3.6580 Dev_Loss: 3.8118
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 175 Loss: 3.6525 Dev_Loss: 3.8116
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 176 Loss: 3.6465 Dev_Loss: 3.8199
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 177 Loss: 3.6493 Dev_Loss: 3.7901
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 178 Loss: 3.6440 Dev_Loss: 3.8373
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 179 Loss: 3.6388 Dev_Loss: 3.8274
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 180 Loss: 3.6451 Dev_Loss: 3.8148
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 181 Loss: 3.6365 Dev_Loss: 3.7694
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 182 Loss: 3.6340 Dev_Loss: 3.7895
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 183 Loss: 3.6348 Dev_Loss: 3.7880
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 184 Loss: 3.6278 Dev_Loss: 3.7836
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 185 Loss: 3.6263 Dev_Loss: 3.7716
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 186 Loss: 3.6271 Dev_Loss: 3.7861
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 187 Loss: 3.6231 Dev_Loss: 3.7679
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 188 Loss: 3.6211 Dev_Loss: 3.7894
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 189 Loss: 3.6232 Dev_Loss: 3.7706
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 190 Loss: 3.6183 Dev_Loss: 3.7783
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 191 Loss: 3.6172 Dev_Loss: 3.7599
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 192 Loss: 3.6123 Dev_Loss: 3.7880
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 193 Loss: 3.6166 Dev_Loss: 3.7774
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 194 Loss: 3.6090 Dev_Loss: 3.7500
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 195 Loss: 3.6085 Dev_Loss: 3.7532
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 196 Loss: 3.6069 Dev_Loss: 3.7564
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 197 Loss: 3.6046 Dev_Loss: 3.7624
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 198 Loss: 3.6042 Dev_Loss: 3.7663
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 199 Loss: 3.6000 Dev_Loss: 3.7656
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 200 Loss: 3.6044 Dev_Loss: 3.7686
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 201 Loss: 3.6019 Dev_Loss: 3.7611
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 202 Loss: 3.5972 Dev_Loss: 3.7671
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 203 Loss: 3.5955 Dev_Loss: 3.7555
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 204 Loss: 3.5927 Dev_Loss: 3.7763
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 205 Loss: 3.5978 Dev_Loss: 3.7524
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 206 Loss: 3.5884 Dev_Loss: 3.7478
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 207 Loss: 3.5881 Dev_Loss: 3.7734
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 208 Loss: 3.5893 Dev_Loss: 3.7629
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 209 Loss: 3.5858 Dev_Loss: 3.7498
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 210 Loss: 3.5871 Dev_Loss: 3.7620
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 211 Loss: 3.5871 Dev_Loss: 3.7618
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 212 Loss: 3.5837 Dev_Loss: 3.7509
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 213 Loss: 3.5813 Dev_Loss: 3.7497
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 214 Loss: 3.5805 Dev_Loss: 3.7507
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 215 Loss: 3.5834 Dev_Loss: 3.7361
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 216 Loss: 3.5771 Dev_Loss: 3.7612
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 217 Loss: 3.5777 Dev_Loss: 3.7555
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 218 Loss: 3.5735 Dev_Loss: 3.7564
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 219 Loss: 3.5777 Dev_Loss: 3.7762
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 220 Loss: 3.5736 Dev_Loss: 3.7339
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 221 Loss: 3.5727 Dev_Loss: 3.7660
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 222 Loss: 3.5729 Dev_Loss: 3.7663
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 223 Loss: 3.5692 Dev_Loss: 3.7393
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 224 Loss: 3.5674 Dev_Loss: 3.7509
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 225 Loss: 3.5682 Dev_Loss: 3.7461
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 226 Loss: 3.5642 Dev_Loss: 3.7487
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 227 Loss: 3.5651 Dev_Loss: 3.7422
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 228 Loss: 3.5626 Dev_Loss: 3.7188
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 229 Loss: 3.5594 Dev_Loss: 3.7353
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 230 Loss: 3.5640 Dev_Loss: 3.7393
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 231 Loss: 3.5585 Dev_Loss: 3.7428
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 232 Loss: 3.5585 Dev_Loss: 3.7424
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 233 Loss: 3.5551 Dev_Loss: 3.7458
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 234 Loss: 3.5568 Dev_Loss: 3.7381
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 235 Loss: 3.5535 Dev_Loss: 3.7200
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 236 Loss: 3.5506 Dev_Loss: 3.7410
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 237 Loss: 3.5527 Dev_Loss: 3.7268
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 238 Loss: 3.5511 Dev_Loss: 3.7936
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 239 Loss: 3.5517 Dev_Loss: 3.7263
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 240 Loss: 3.5489 Dev_Loss: 3.7362
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 241 Loss: 3.5479 Dev_Loss: 3.7423
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 242 Loss: 3.5499 Dev_Loss: 3.7274
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 243 Loss: 3.5467 Dev_Loss: 3.7152
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 244 Loss: 3.5428 Dev_Loss: 3.7155
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 245 Loss: 3.5455 Dev_Loss: 3.7474
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 246 Loss: 3.5399 Dev_Loss: 3.7147
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 247 Loss: 3.5461 Dev_Loss: 3.7185
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 248 Loss: 3.5411 Dev_Loss: 3.7225
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 249 Loss: 3.5375 Dev_Loss: 3.7508
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 250 Loss: 3.5415 Dev_Loss: 3.7446
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 251 Loss: 3.5390 Dev_Loss: 3.7367
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 252 Loss: 3.5386 Dev_Loss: 3.7265
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 253 Loss: 3.5348 Dev_Loss: 3.7345
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 254 Loss: 3.5350 Dev_Loss: 3.7131
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 255 Loss: 3.5336 Dev_Loss: 3.7247
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 256 Loss: 3.5321 Dev_Loss: 3.7107
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 257 Loss: 3.5323 Dev_Loss: 3.7092
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 258 Loss: 3.5272 Dev_Loss: 3.7348
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 259 Loss: 3.5309 Dev_Loss: 3.7201
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 260 Loss: 3.5289 Dev_Loss: 3.7174
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 261 Loss: 3.5304 Dev_Loss: 3.7106
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 262 Loss: 3.5232 Dev_Loss: 3.7113
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 263 Loss: 3.5278 Dev_Loss: 3.7093
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 264 Loss: 3.5251 Dev_Loss: 3.7283
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 265 Loss: 3.5236 Dev_Loss: 3.7066
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 266 Loss: 3.5269 Dev_Loss: 3.6962
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 267 Loss: 3.5211 Dev_Loss: 3.7038
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 268 Loss: 3.5178 Dev_Loss: 3.6913
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 269 Loss: 3.5218 Dev_Loss: 3.6920
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 270 Loss: 3.5192 Dev_Loss: 3.7250
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 271 Loss: 3.5171 Dev_Loss: 3.7108
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 272 Loss: 3.5191 Dev_Loss: 3.7507
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 273 Loss: 3.5139 Dev_Loss: 3.6948
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 274 Loss: 3.5169 Dev_Loss: 3.7025
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 275 Loss: 3.5127 Dev_Loss: 3.7038
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 276 Loss: 3.5143 Dev_Loss: 3.7108
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 277 Loss: 3.5157 Dev_Loss: 3.6932
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 278 Loss: 3.5153 Dev_Loss: 3.6985
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 279 Loss: 3.5105 Dev_Loss: 3.7297
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 280 Loss: 3.5119 Dev_Loss: 3.6979
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 281 Loss: 3.5134 Dev_Loss: 3.7063
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 282 Loss: 3.5043 Dev_Loss: 3.6984
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 283 Loss: 3.5094 Dev_Loss: 3.6915
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 284 Loss: 3.5048 Dev_Loss: 3.6896
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 285 Loss: 3.5061 Dev_Loss: 3.6991
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 286 Loss: 3.5034 Dev_Loss: 3.7137
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 287 Loss: 3.5071 Dev_Loss: 3.6814
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 288 Loss: 3.5010 Dev_Loss: 3.6969
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 289 Loss: 3.5056 Dev_Loss: 3.7001
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 290 Loss: 3.4985 Dev_Loss: 3.7189
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 291 Loss: 3.5020 Dev_Loss: 3.6866
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 292 Loss: 3.5007 Dev_Loss: 3.6860
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 293 Loss: 3.4991 Dev_Loss: 3.6867
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 294 Loss: 3.4973 Dev_Loss: 3.6822
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 295 Loss: 3.4967 Dev_Loss: 3.6842
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 296 Loss: 3.4985 Dev_Loss: 3.6931
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 297 Loss: 3.4928 Dev_Loss: 3.6925
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 298 Loss: 3.4940 Dev_Loss: 3.6874
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 299 Loss: 3.4935 Dev_Loss: 3.6668
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 300 Loss: 3.4921 Dev_Loss: 3.6777
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 301 Loss: 3.4915 Dev_Loss: 3.6798
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 302 Loss: 3.4883 Dev_Loss: 3.6861
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 303 Loss: 3.4906 Dev_Loss: 3.6807
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 304 Loss: 3.4917 Dev_Loss: 3.6702
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 305 Loss: 3.4840 Dev_Loss: 3.6788
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 306 Loss: 3.4897 Dev_Loss: 3.6888
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 307 Loss: 3.4859 Dev_Loss: 3.6960
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 308 Loss: 3.4882 Dev_Loss: 3.7129
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 309 Loss: 3.4852 Dev_Loss: 3.6765
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 310 Loss: 3.4859 Dev_Loss: 3.6861
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00311: ReduceLROnPlateau reducing learning rate to 1.0000000474974514e-05.
+Epoch: 311 Loss: 3.4425 Dev_Loss: 3.6509
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 312 Loss: 3.4347 Dev_Loss: 3.6529
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 313 Loss: 3.4332 Dev_Loss: 3.6534
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 314 Loss: 3.4327 Dev_Loss: 3.6500
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 315 Loss: 3.4325 Dev_Loss: 3.6501
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 316 Loss: 3.4326 Dev_Loss: 3.6514
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 317 Loss: 3.4325 Dev_Loss: 3.6516
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 318 Loss: 3.4322 Dev_Loss: 3.6561
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 319 Loss: 3.4320 Dev_Loss: 3.6507
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 320 Loss: 3.4317 Dev_Loss: 3.6525
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 321 Loss: 3.4312 Dev_Loss: 3.6501
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 322 Loss: 3.4316 Dev_Loss: 3.6511
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 323 Loss: 3.4317 Dev_Loss: 3.6515
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 324 Loss: 3.4310 Dev_Loss: 3.6513
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 325 Loss: 3.4311 Dev_Loss: 3.6522
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 326 Loss: 3.4312 Dev_Loss: 3.6550
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 327 Loss: 3.4312 Dev_Loss: 3.6527
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 328 Loss: 3.4305 Dev_Loss: 3.6516
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 329 Loss: 3.4301 Dev_Loss: 3.6516
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 330 Loss: 3.4314 Dev_Loss: 3.6502
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 331 Loss: 3.4298 Dev_Loss: 3.6548
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 332 Loss: 3.4297 Dev_Loss: 3.6504
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 333 Loss: 3.4304 Dev_Loss: 3.6503
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 334 Loss: 3.4301 Dev_Loss: 3.6499
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 335 Loss: 3.4302 Dev_Loss: 3.6523
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 336 Loss: 3.4296 Dev_Loss: 3.6512
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 337 Loss: 3.4285 Dev_Loss: 3.6503
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 338 Loss: 3.4299 Dev_Loss: 3.6506
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 339 Loss: 3.4300 Dev_Loss: 3.6520
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 340 Loss: 3.4299 Dev_Loss: 3.6489
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 341 Loss: 3.4290 Dev_Loss: 3.6558
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 342 Loss: 3.4294 Dev_Loss: 3.6506
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00343: ReduceLROnPlateau reducing learning rate to 1.0000000656873453e-06.
+Epoch: 343 Loss: 3.4238 Dev_Loss: 3.6489
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 344 Loss: 3.4232 Dev_Loss: 3.6486
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 345 Loss: 3.4230 Dev_Loss: 3.6485
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 346 Loss: 3.4229 Dev_Loss: 3.6487
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 347 Loss: 3.4229 Dev_Loss: 3.6491
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 348 Loss: 3.4228 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 349 Loss: 3.4227 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 350 Loss: 3.4229 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 351 Loss: 3.4228 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 352 Loss: 3.4228 Dev_Loss: 3.6491
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 353 Loss: 3.4228 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 354 Loss: 3.4227 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00355: ReduceLROnPlateau reducing learning rate to 1.0000001111620805e-07.
+Epoch: 355 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 356 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 357 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 358 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 359 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 360 Loss: 3.4219 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00361: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 361 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 362 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 363 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 364 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 365 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00366: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 366 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 367 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 368 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 369 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 370 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00371: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 371 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 372 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 373 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 374 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 375 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00376: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 376 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 377 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 378 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 379 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 380 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00381: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 381 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 382 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 383 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 384 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 385 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00386: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 386 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 387 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 388 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 389 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 390 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00391: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 391 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 392 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 393 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 394 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 395 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00396: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 396 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 397 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 398 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 399 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 400 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00401: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 401 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 402 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 403 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 404 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 405 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00406: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 406 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 407 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 408 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 409 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 410 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00411: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 411 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 412 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 413 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 414 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 415 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00416: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 416 Loss: 3.4219 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 417 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 418 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 419 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 420 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00421: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 421 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 422 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 423 Loss: 3.4219 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 424 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 425 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00426: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 426 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 427 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 428 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 429 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 430 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00431: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 431 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 432 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 433 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 434 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 435 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 436 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 437 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00438: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 438 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 439 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 440 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 441 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 442 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00443: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 443 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 444 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 445 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 446 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 447 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00448: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 448 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 449 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 450 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 451 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 452 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00453: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 453 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 454 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 455 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 456 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 457 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00458: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 458 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 459 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 460 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 461 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 462 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00463: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 463 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 464 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 465 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 466 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 467 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00468: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 468 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 469 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 470 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 471 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 472 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00473: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 473 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 474 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 475 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 476 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 477 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00478: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 478 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 479 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 480 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 481 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 482 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00483: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 483 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 484 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 485 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 486 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 487 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00488: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 488 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 489 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 490 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 491 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 492 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00493: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 493 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 494 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 495 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 496 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 497 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00498: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 498 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 499 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 500 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 501 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 502 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00503: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 503 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 504 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 505 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 506 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 507 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00508: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 508 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 509 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 510 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 511 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 512 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00513: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 513 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 514 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 515 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 516 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 517 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00518: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 518 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 519 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 520 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 521 Loss: 3.4218 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 522 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00523: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 523 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 524 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 525 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 526 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 527 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00528: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 528 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 529 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 530 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 531 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 532 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00533: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 533 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 534 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 535 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 536 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 537 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 538 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 539 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 540 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00541: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 541 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 542 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 543 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 544 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 545 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00546: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 546 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 547 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 548 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 549 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 550 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00551: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 551 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 552 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 553 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 554 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 555 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00556: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 556 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 557 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 558 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 559 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 560 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00561: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 561 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 562 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 563 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 564 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 565 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00566: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 566 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 567 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 568 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 569 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 570 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00571: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 571 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 572 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 573 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 574 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 575 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00576: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 576 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 577 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 578 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 579 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 580 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00581: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 581 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 582 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 583 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 584 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 585 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00586: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 586 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 587 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 588 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 589 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 590 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00591: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 591 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 592 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 593 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 594 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 595 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00596: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 596 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 597 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 598 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 599 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 600 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00601: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 601 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 602 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 603 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 604 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 605 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00606: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 606 Loss: 3.4217 Dev_Loss: 3.6495
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 607 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 608 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 609 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 610 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00611: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 611 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 612 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 613 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 614 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 615 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00616: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 616 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 617 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 618 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 619 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 620 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00621: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 621 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 622 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 623 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 624 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 625 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00626: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 626 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 627 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 628 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 629 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 630 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00631: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 631 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 632 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 633 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 634 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 635 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00636: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 636 Loss: 3.4217 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 637 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 638 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 639 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 640 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00641: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 641 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 642 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 643 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 644 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 645 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00646: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 646 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 647 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 648 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 649 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 650 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 651 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 652 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00653: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 653 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 654 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 655 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 656 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 657 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00658: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 658 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 659 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 660 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 661 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 662 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00663: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 663 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 664 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 665 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 666 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 667 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00668: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 668 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 669 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 670 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 671 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 672 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00673: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 673 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 674 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 675 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 676 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 677 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00678: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 678 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 679 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 680 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 681 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 682 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00683: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 683 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 684 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 685 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 686 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 687 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00688: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 688 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 689 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 690 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 691 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 692 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00693: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 693 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 694 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 695 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 696 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 697 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00698: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 698 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 699 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 700 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 701 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 702 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00703: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 703 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 704 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 705 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 706 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 707 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00708: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 708 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 709 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 710 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 711 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 712 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00713: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 713 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 714 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 715 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 716 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 717 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00718: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 718 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 719 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 720 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 721 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 722 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00723: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 723 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 724 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 725 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 726 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 727 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00728: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 728 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 729 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 730 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 731 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 732 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00733: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 733 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 734 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 735 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 736 Loss: 3.4216 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 737 Loss: 3.4216 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00738: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 738 Loss: 3.4216 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 739 Loss: 3.4216 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 740 Loss: 3.4216 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 741 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 742 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00743: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 743 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 744 Loss: 3.4216 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 745 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 746 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 747 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00748: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 748 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 749 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 750 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 751 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 752 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00753: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 753 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 754 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 755 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 756 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 757 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00758: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 758 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 759 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 760 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 761 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 762 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00763: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 763 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 764 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 765 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 766 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 767 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 768 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00769: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 769 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 770 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 771 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 772 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 773 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00774: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 774 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 775 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 776 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 777 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 778 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00779: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 779 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 780 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 781 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 782 Loss: 3.4215 Dev_Loss: 3.6494
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 783 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00784: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 784 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 785 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 786 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 787 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 788 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00789: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 789 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 790 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 791 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 792 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 793 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00794: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 794 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 795 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 796 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 797 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 798 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00799: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 799 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 800 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 801 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 802 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 803 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00804: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 804 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 805 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 806 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 807 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 808 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00809: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 809 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 810 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 811 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 812 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 813 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00814: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 814 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 815 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 816 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 817 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 818 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00819: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 819 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 820 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 821 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 822 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 823 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00824: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 824 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 825 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 826 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 827 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 828 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00829: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 829 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 830 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 831 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 832 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 833 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00834: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 834 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 835 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 836 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 837 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 838 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00839: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 839 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 840 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 841 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 842 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 843 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00844: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 844 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 845 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 846 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 847 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 848 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00849: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 849 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 850 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 851 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 852 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 853 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00854: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 854 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 855 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 856 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 857 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 858 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00859: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 859 Loss: 3.4215 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 860 Loss: 3.4215 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 861 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 862 Loss: 3.4215 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 863 Loss: 3.4215 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00864: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 864 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 865 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 866 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 867 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 868 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00869: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 869 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 870 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 871 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 872 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 873 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00874: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 874 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 875 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 876 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 877 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 878 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00879: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 879 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 880 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 881 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 882 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 883 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 884 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00885: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 885 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 886 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 887 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 888 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 889 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00890: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 890 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 891 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 892 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 893 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 894 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00895: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 895 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 896 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 897 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 898 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 899 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00900: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 900 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 901 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 902 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 903 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 904 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00905: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 905 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 906 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 907 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 908 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 909 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00910: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 910 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 911 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 912 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 913 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 914 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00915: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 915 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 916 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 917 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 918 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 919 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00920: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 920 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 921 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 922 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 923 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 924 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00925: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 925 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 926 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 927 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 928 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 929 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00930: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 930 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 931 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 932 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 933 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 934 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00935: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 935 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 936 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 937 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 938 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 939 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00940: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 940 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 941 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 942 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 943 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 944 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00945: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 945 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 946 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 947 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 948 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 949 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00950: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 950 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 951 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 952 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 953 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 954 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00955: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 955 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 956 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 957 Loss: 3.4214 Dev_Loss: 3.6493
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 958 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 959 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00960: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 960 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 961 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 962 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 963 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 964 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00965: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 965 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 966 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 967 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 968 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 969 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00970: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 970 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 971 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 972 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 973 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 974 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00975: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 975 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 976 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 977 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 978 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 979 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00980: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 980 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 981 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 982 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 983 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 984 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00985: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 985 Loss: 3.4214 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 986 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 987 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 988 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 989 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00990: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 990 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 991 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 992 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 993 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 994 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 00995: ReduceLROnPlateau reducing learning rate to 1e-07.
+Epoch: 995 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 996 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 997 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 998 Loss: 3.4213 Dev_Loss: 3.6492
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+Epoch: 999 Loss: 3.4213 Dev_Loss: 3.6491
+T,R,P_1,P_2 R_acc: 0.07//0.10//0.07//0.07->0.08
+
+Epoch 01000: ReduceLROnPlateau reducing learning rate to 1e-07.
+==================================================
+OUT0
+==================================================
+OUT1
+==================================================
+OUT2
+==================================================
+OUT3
+==================================================
+Sim: 1 Min Dev Loss: 3.64847301386
+----------------------------------------------------------------------------------
+results are:[3.6484730138619716]
+min is: 3.64847301386
+for num: 0
+params are:
+drop_out False
+hidden_layers 100
+num_of_hidden_layers 3
+loss_ratio 1
+activation relu
+final_act sigmoid
+learning_rate 0.001

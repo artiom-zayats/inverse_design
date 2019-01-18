@@ -1,0 +1,5 @@
+#!/bin/bash
+python3 run_eval.py -mf models/Reverse_Test_run_0_time_2018-10-22-14-17-46.hdf5
+python3 run_eval.py -mf models/Reverse_Test_run_1_time_2018-10-22-14-20-38.hdf5
+python3 run_eval.py -mf models/Reverse_Test_run_2_time_2018-10-22-14-27-22.hdf5
+python3 run_eval.py -mf models/Reverse_Test_run_3_time_2018-10-22-14-32-46.hdf5
